@@ -1,6 +1,10 @@
 
 <h1 align="center">Planning Poker App</h1>
 
+## Live App
+
+https://planning-poker-blue.vercel.app/
+
 ## Features
 
 1. Create new Session(Fibonacci or TShirt size)
