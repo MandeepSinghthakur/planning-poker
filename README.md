@@ -20,7 +20,7 @@ https://planning-poker-blue.vercel.app/
 1. React - Frontend
 2. Material-ui - UI Components
 3. Firestore - Database
-4. Firebase - Hosting
+4. Vercel - Hosting
 
 ## How to run the app locally for development
 
