@@ -7,7 +7,7 @@ https://planning-poker-blue.vercel.app/
 
 ## Features
 
-1. Create new Session(Fibonacci or TShirt size)
+1. Create new Session(Fibonacci or Custom)
 2. Join Session
 3. Invite Link
 4. Session controller - Moderator can Reveal and restart the session anytime.
